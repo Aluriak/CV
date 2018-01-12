@@ -1,0 +1,2 @@
+See [pandoc resume](https://github.com/aluriak/pandoc_resume),
+and the [base project](https://github.com/mszep/pandoc_resume).
